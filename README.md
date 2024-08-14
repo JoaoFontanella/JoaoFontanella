@@ -1,4 +1,4 @@
-## Olá, meu nome é Joâo Victor Macam Fontanella!
+## Olá, meu nome é João Victor Macam Fontanella!
 
 ## Tecnologias que conheço:
 
