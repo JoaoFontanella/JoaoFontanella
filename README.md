@@ -1,5 +1,11 @@
 ## Olá, meu nome é João Victor Macam Fontanella!
 
+  ##
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=JoaoFontanella&show_icons=true&theme=dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFontanella&size_weight=0.0005&count_weight=0.3&layout=compact&theme=dark">
+</p>
+
 ## Tecnologias que mais utilizo:
 
 <div style="display: inline_block"><br>
@@ -11,12 +17,6 @@
   <img align="center" alt="Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
-  
-  ##
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=JoaoFontanella&show_icons=true&theme=dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFontanella&size_weight=0.0005&count_weight=0.3&layout=compact&theme=dark">
-</p>
 
   ##
  
