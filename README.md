@@ -1,9 +1,9 @@
 ## Olá, meu nome é João Victor Macam Fontanella!
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=JoaoFontanella&show_icons=true&theme=dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFontanella&size_weight=0.0005&count_weight=0.3&layout=compact&theme=dark">
-</p>
+
+  [![card](https://github-readme-stats.vercel.app/api?username=JoaoFontanella&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;
+  [![JoaoFontanella](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFontanella&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tecnologias que mais utilizo:
 
@@ -18,8 +18,12 @@
 </div>
 
   ##
- 
+  <h2>Gráfico de Atividade:</h2>
+  
+  ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoFontanella&custom_title=%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+  ##
+  ## Contato:
 <div>
-<a href = "mailto:contato@joaofontanella31"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/joão-fontanella-9b3389254" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:contato@joaofontanella31"><img align="center" alt="Stefanos Stamoulis | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/joão-fontanella-9b3389254" target="_blank"><img align="center" alt="Stefanos Stamoulis | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" ></a>
 </div>
