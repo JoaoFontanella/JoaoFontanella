@@ -20,5 +20,5 @@
   
 <div>
 <a href = "mailto:contato@joaofontanella31"><img align="center" alt="Stefanos Stamoulis | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/joão-fontanella-9b3389254" target="_blank"><img align="center" alt="Stefanos Stamoulis | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" ></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-macan-fontanella/" target="_blank"><img align="center" alt="Stefanos Stamoulis | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" ></a>
 </div>
