@@ -1,13 +1,3 @@
----
-
-## ⚙️ Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/JoaoFontanella">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoFontanella&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFontanella&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</div>
 
 ---
 
