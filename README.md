@@ -1,7 +1,17 @@
+---
+
+## 📊 Status github
+
+<div align="center">
+  <img align="center" alt="Github Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=joaofontanella&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" alt="Github Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofontanella&layout=compact&theme=dark"/>
+</div>
+
+<br>
 
 ---
 
-## 🧠 Tecnologias, Frameworks e Ferramentas
+## 🛠️ Tecnologias, Frameworks e Ferramentas
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="React.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -29,5 +39,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
----
