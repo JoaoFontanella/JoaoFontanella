@@ -3,7 +3,6 @@
 ## 📊 Status github
 
 <div align="center">
-  <img align="center" alt="Github Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=joaofontanella&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="center" alt="Github Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofontanella&layout=compact&theme=dark"/>
 </div>
 
