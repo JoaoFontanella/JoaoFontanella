@@ -31,7 +31,7 @@
 ## 📫 Como me encontrar
 
 <div align="left">
-  <a href="mailto:contato@joaofontanella31" target="_blank">
+  <a href="mailto:joaofontanella31@gmail.com" target="_blank">
     <img height="30" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Light.svg" />
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-macan-fontanella/" target="_blank">
