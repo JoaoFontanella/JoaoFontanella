@@ -1,12 +1,3 @@
----
-
-## 📊 Status github
-
-<div align="center">
-  <img align="center" alt="Github Status" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFontanella&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
-</div>
-
-<br>
 
 ---
 
